@@ -1,5 +1,5 @@
 {
-    "name": "mmanos/laravel-search",
+    "name": "tmunzar/laravel-search",
     "description": "A search package for Laravel 4.",
     "keywords": ["laravel", "search", "lucene", "zendsearch", "elasticsearch", "full", "text"],
     "authors": [
